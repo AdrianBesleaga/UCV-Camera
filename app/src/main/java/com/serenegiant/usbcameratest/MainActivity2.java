@@ -40,8 +40,8 @@ import com.serenegiant.usb.USBMonitor;
 import com.serenegiant.usb.USBMonitor.OnDeviceConnectListener;
 import com.serenegiant.usb.USBMonitor.UsbControlBlock;
 import com.serenegiant.usb.UVCCamera;
+import com.serenegiant.usbcameracommon.UVCCameraHandler;
 import com.serenegiant.widget.CameraViewInterface;
-import com.serenegiant.widget.SimpleUVCCameraTextureView;
 
 import java.nio.ByteBuffer;
 
@@ -55,6 +55,12 @@ public final class MainActivity2 extends BaseActivity implements CameraDialog.Ca
     // for open&start / stop&close camera preview
     private ToggleButton mCameraButton;
     private Surface mPreviewSurface;
+    //    private AbstractUVCCameraHandler cameraHandler;
+    private UVCCameraHandler mCameraHandler;
+    private static final boolean USE_SURFACE_ENCODER = false;
+    private static final int PREVIEW_WIDTH = 640;
+    private static final int PREVIEW_HEIGHT = 480;
+    private static final int PREVIEW_MODE = 1;
 
     @Override
     protected void onCreate(final Bundle savedInstanceState) {
@@ -64,9 +70,12 @@ public final class MainActivity2 extends BaseActivity implements CameraDialog.Ca
         mCameraButton.setOnClickListener(mOnClickListener);
         final View view = findViewById(R.id.camera_view);
         mUVCCameraView = (CameraViewInterface) view;
-        mUVCCameraView.setAspectRatio(UVCCamera.DEFAULT_PREVIEW_WIDTH / (float)UVCCamera.DEFAULT_PREVIEW_HEIGHT);
+        mUVCCameraView.setAspectRatio(1 / 2);
 
         mUSBMonitor = new USBMonitor(this, mOnDeviceConnectListener);
+
+        mCameraHandler = UVCCameraHandler.createHandler(this, mUVCCameraView,
+                USE_SURFACE_ENCODER ? 0 : 1, PREVIEW_WIDTH, PREVIEW_HEIGHT, PREVIEW_MODE);
 
     }
 
@@ -165,19 +174,20 @@ public final class MainActivity2 extends BaseActivity implements CameraDialog.Ca
                             });
                         }
                     });
+
                     camera.setButtonCallback(new IButtonCallback() {
                         @Override
                         public void onButton(final int button, final int state) {
                             runOnUiThread(new Runnable() {
                                 @Override
                                 public void run() {
-                                    final Toast toast = Toast.makeText(MainActivity2.this, "onButton(button=" + button + "; " +
-                                            "state=" + state + ")", Toast.LENGTH_SHORT);
+                                    final Toast toast = Toast.makeText(MainActivity2.this, "Photo Saved !", Toast.LENGTH_SHORT);
                                     synchronized (mSync) {
                                         if (mToast != null) {
                                             mToast.cancel();
                                         }
                                         mToast = toast;
+                                        mCameraHandler.captureStill();
                                         toast.show();
                                     }
                                 }
@@ -252,6 +262,7 @@ public final class MainActivity2 extends BaseActivity implements CameraDialog.Ca
 
     /**
      * to access from CameraDialog
+     *
      * @return
      */
     @Override

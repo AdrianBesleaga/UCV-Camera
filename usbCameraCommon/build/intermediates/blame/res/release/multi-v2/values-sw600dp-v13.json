@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,158",
+                        "endColumns": "52,49,49",
+                        "endOffsets": "103,153,203"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,158",
+                        "endColumns": "52,49,49",
+                        "endOffsets": "103,153,203"
+                    }
+                }
+            ]
+        }
+    ]
+}

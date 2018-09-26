@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_camera.xml",
+        "source": "C:\\mobile_dev\\UVCCamera-ady\\libuvccamera\\build\\intermediates\\bundles\\default\\res\\layout\\dialog_camera.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_bluetooth_device_info.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.android\\build-cache\\bc2c549376dae3987bc5ac7994a1ab5b55a24ae3\\output\\res\\layout\\list_item_bluetooth_device_info.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\debug\\layout\\item_picker.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.android\\build-cache\\bc2c549376dae3987bc5ac7994a1ab5b55a24ae3\\output\\res\\layout\\item_picker.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\debug\\layout\\color_picker.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.android\\build-cache\\bc2c549376dae3987bc5ac7994a1ab5b55a24ae3\\output\\res\\layout\\color_picker.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\debug\\layout\\view_frame_selector.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.android\\build-cache\\bc2c549376dae3987bc5ac7994a1ab5b55a24ae3\\output\\res\\layout\\view_frame_selector.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\debug\\layout\\seekbar_preference.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.android\\build-cache\\bc2c549376dae3987bc5ac7994a1ab5b55a24ae3\\output\\res\\layout\\seekbar_preference.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\debug\\layout\\color_picker_dialog.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.android\\build-cache\\bc2c549376dae3987bc5ac7994a1ab5b55a24ae3\\output\\res\\layout\\color_picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "C:\\mobile_dev\\UVCCamera-ady\\libuvccamera\\build\\intermediates\\bundles\\default\\res\\layout\\listitem_device.xml"
+    }
+]

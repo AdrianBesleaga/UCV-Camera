@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_right.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_right.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_left.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_left.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\anim\\slide_in_left.xml"
+    }
+]

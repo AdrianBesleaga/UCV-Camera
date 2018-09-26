@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\drawable\\border.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\drawable\\frame.9.png",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\drawable\\frame.9.png"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\drawable\\border_black.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\drawable\\border_black.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\drawable\\toggle_slide.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\drawable\\toggle_slide.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\drawable\\recordingtime.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\drawable\\recordingtime.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\drawable\\border_gray.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\drawable\\border_gray.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\drawable\\transparent_rect.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\drawable\\transparent_rect.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\drawable\\btn_new_shutter.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\drawable\\btn_new_shutter.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\drawable\\btn_repeat_shutter_recording.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\drawable\\btn_repeat_shutter_recording.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\drawable\\btn_new_shutter_video.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\drawable\\btn_new_shutter_video.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\drawable\\toggle_button_base.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\drawable\\toggle_button_base.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\drawable\\frame_cross.9.png",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\drawable\\frame_cross.9.png"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\drawable\\mask_circle.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\drawable\\mask_circle.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\drawable\\toggle.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\drawable\\toggle.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\drawable\\quater_clear_rect.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\drawable\\quater_clear_rect.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\drawable\\btn_shutter_video_recording.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\drawable\\btn_shutter_video_recording.xml"
+    }
+]

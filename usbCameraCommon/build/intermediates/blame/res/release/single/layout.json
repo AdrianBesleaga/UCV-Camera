@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\layout\\list_item_bluetooth_device_info.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\layout\\list_item_bluetooth_device_info.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\layout\\listitem_device.xml",
+        "source": "C:\\mobile_dev\\UVCCamera-ady\\libuvccamera\\build\\intermediates\\packaged_res\\release\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\layout\\dialog_camera.xml",
+        "source": "C:\\mobile_dev\\UVCCamera-ady\\libuvccamera\\build\\intermediates\\packaged_res\\release\\layout\\dialog_camera.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\layout\\item_picker.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\layout\\item_picker.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\layout\\seekbar_preference.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\layout\\seekbar_preference.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\layout\\color_picker.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\layout\\color_picker.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\layout\\view_frame_selector.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\layout\\view_frame_selector.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\layout\\color_picker_dialog.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\layout\\color_picker_dialog.xml"
+    }
+]

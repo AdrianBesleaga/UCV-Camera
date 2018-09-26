@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\ic_color_circle.png",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\mipmap-xxxhdpi-v4\\ic_color_circle.png"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\ic_frame_frame.png",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\mipmap-xxxhdpi-v4\\ic_frame_frame.png"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\ic_frame_circle_2.png",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\mipmap-xxxhdpi-v4\\ic_frame_circle_2.png"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\ic_frame_cross_circle2.png",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\mipmap-xxxhdpi-v4\\ic_frame_cross_circle2.png"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\ic_transparent.png",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\mipmap-xxxhdpi-v4\\ic_transparent.png"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\ic_frame_circle.png",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\mipmap-xxxhdpi-v4\\ic_frame_circle.png"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\ic_frame_cross.png",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\mipmap-xxxhdpi-v4\\ic_frame_cross.png"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\ic_frame_cross_circle.png",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\mipmap-xxxhdpi-v4\\ic_frame_cross_circle.png"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\ic_frame_cross_quarter.png",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.5.20.aar\\b14ddafe085e6890b5471003911b015c\\res\\mipmap-xxxhdpi-v4\\ic_frame_cross_quarter.png"
+    }
+]

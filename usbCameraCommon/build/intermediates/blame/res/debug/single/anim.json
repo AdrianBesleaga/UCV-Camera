@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_left.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.android\\build-cache\\bc2c549376dae3987bc5ac7994a1ab5b55a24ae3\\output\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_left.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.android\\build-cache\\bc2c549376dae3987bc5ac7994a1ab5b55a24ae3\\output\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_right.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.android\\build-cache\\bc2c549376dae3987bc5ac7994a1ab5b55a24ae3\\output\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\mobile_dev\\UVCCamera-ady\\usbCameraCommon\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_right.xml",
+        "source": "C:\\Users\\adrian.besleaga\\.android\\build-cache\\bc2c549376dae3987bc5ac7994a1ab5b55a24ae3\\output\\res\\anim\\slide_out_right.xml"
+    }
+]

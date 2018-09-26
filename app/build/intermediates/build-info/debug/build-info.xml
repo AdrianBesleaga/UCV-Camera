@@ -5,65 +5,32 @@
     build-mode="COLD"
     density="xxhdpi"
     format="10"
-    ir-eligibility="CLASS_ADDED"
+    ir-eligibility="FIELD_REMOVED"
     plugin-version="3.2.0"
-    timestamp="1537951444665"
+    timestamp="1537974554524"
     token="-7781801688278707042"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="288" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="205" />
+        duration="43" />
     <task
         name="verifier"
-        duration="330" />
+        duration="86" />
 
-    <artifact
-        location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-        type="SPLIT" />
     <artifact
         location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
-    <artifact
-        location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1537944382055"
+        timestamp="1537965508835"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
@@ -108,44 +75,32 @@
     <build
         build-mode="COLD"
         ir-eligibility="CLASS_ADDED"
-        timestamp="1537951444665"
+        timestamp="1537970077922"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
-        <artifact
-            location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="CLASS_ADDED"
+        timestamp="1537974253414"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
             location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
-        <artifact
-            location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="FIELD_REMOVED"
+        timestamp="1537974554524"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
-        <artifact
-            location="C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>
