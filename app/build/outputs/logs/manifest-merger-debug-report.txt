@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [:opencv] C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\opencv\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2e717f5974e2e8f9b726a3f7d1f64980\AndroidManifest.xml:2:1-11:12
+MERGED from [com.serenegiant:common:2.5.1] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\common-2.5.1.aar\18da48fca299fed4c8f7cb5f9c81f194\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\17b9278820dbb9161006a1ae36fb0e49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\549e979b09f881adcd1da51577b91baf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\730b7133ef37894b8a86bcc4bc532353\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\9c9183446e3ec629cdc6a37853d80c8b\AndroidManifest.xml:17:1-22:12
+MERGED from [:usbCameraCommon-release] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\usbCameraCommon-release.aar\c109e6a0731a3fd7bbf75afc33059b3e\AndroidManifest.xml:24:1-32:12
+MERGED from [:libuvccamera-release] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\libuvccamera-release.aar\25cdf948d1ad2072e18aefeb8151451e\AndroidManifest.xml:24:1-33:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bb700fcb7c6973bf5d39013fb408c373\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:5:2-67
+	android:name
+		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:5:19-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:6:2-77
+	android:name
+		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:6:19-75
+uses-feature#0x00030000
+ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:9:2-75
+	android:glEsVersion
+		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:9:16-48
+	android:required
+		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:9:49-72
+uses-feature#android.hardware.usb.host
+ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:10:2-82
+	android:required
+		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:10:57-80
+	android:name
+		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:10:16-56
+application
+ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:12:2-26:16
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2e717f5974e2e8f9b726a3f7d1f64980\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2e717f5974e2e8f9b726a3f7d1f64980\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:17:3-29
+	android:label
+		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:15:3-35
+	android:roundIcon
+		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:16:3-48
+	android:icon
+		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:14:3-37
+	android:allowBackup
+		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:13:3-29
+	android:theme
+		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:18:3-34
+activity#com.serenegiant.usbcameratest.MainActivity2
+ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:19:3-25:14
+	android:name
+		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:19:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:20:4-24:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:21:5-56
+	android:name
+		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:21:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:23:5-64
+	android:name
+		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:23:15-62
+uses-sdk
+INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml
+MERGED from [:opencv] C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\opencv\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:opencv] C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\opencv\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2e717f5974e2e8f9b726a3f7d1f64980\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2e717f5974e2e8f9b726a3f7d1f64980\AndroidManifest.xml:5:5-7:41
+MERGED from [com.serenegiant:common:2.5.1] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\common-2.5.1.aar\18da48fca299fed4c8f7cb5f9c81f194\AndroidManifest.xml:7:5-9:41
+MERGED from [com.serenegiant:common:2.5.1] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\common-2.5.1.aar\18da48fca299fed4c8f7cb5f9c81f194\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\17b9278820dbb9161006a1ae36fb0e49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\17b9278820dbb9161006a1ae36fb0e49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\549e979b09f881adcd1da51577b91baf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\549e979b09f881adcd1da51577b91baf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\730b7133ef37894b8a86bcc4bc532353\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\730b7133ef37894b8a86bcc4bc532353\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\9c9183446e3ec629cdc6a37853d80c8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\9c9183446e3ec629cdc6a37853d80c8b\AndroidManifest.xml:20:5-44
+MERGED from [:usbCameraCommon-release] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\usbCameraCommon-release.aar\c109e6a0731a3fd7bbf75afc33059b3e\AndroidManifest.xml:28:5-30:41
+MERGED from [:usbCameraCommon-release] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\usbCameraCommon-release.aar\c109e6a0731a3fd7bbf75afc33059b3e\AndroidManifest.xml:28:5-30:41
+MERGED from [:libuvccamera-release] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\libuvccamera-release.aar\25cdf948d1ad2072e18aefeb8151451e\AndroidManifest.xml:29:5-31:41
+MERGED from [:libuvccamera-release] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\libuvccamera-release.aar\25cdf948d1ad2072e18aefeb8151451e\AndroidManifest.xml:29:5-31:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bb700fcb7c6973bf5d39013fb408c373\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bb700fcb7c6973bf5d39013fb408c373\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml

@@ -1,0 +1,43 @@
+apply plugin: 'com.android.application'
+
+android {
+	compileSdkVersion versionCompiler
+	buildToolsVersion '28.0.2'
+
+	defaultConfig {
+		minSdkVersion 18
+		targetSdkVersion versionTarget
+		versionCode 1
+		versionName "1.0"
+
+		applicationId "com.serenegiant.opencvwithuvc"
+		testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+	}
+	buildTypes {
+		release {
+			minifyEnabled false
+			proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+		}
+	}
+	lintOptions {
+		abortOnError false
+	}
+}
+
+dependencies {
+	implementation fileTree(dir: 'libs', include: ['*.jar'])
+	androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
+		exclude group: 'com.android.support', module: 'support-annotations'
+	})
+	implementation 'com.android.support.constraint:constraint-layout:1.1.2'
+	testImplementation 'junit:junit:4.12'
+
+	implementation "com.android.support:support-annotations:${supportLibVersion}"
+	implementation("com.serenegiant:common:${commonLibVersion}") {
+		exclude module: 'support-v4'
+	}
+
+	implementation project(':opencv')
+	implementation project(':usbCameraCommon-release')
+	implementation project(':libuvccamera-release')
+}

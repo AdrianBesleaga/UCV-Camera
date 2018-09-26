@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.serenegiant:common-2.5.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/common-2.5.1.aar/446e7afb90c851f4744513a171e3b7dc/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/common-2.5.1.aar/446e7afb90c851f4744513a171e3b7dc/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

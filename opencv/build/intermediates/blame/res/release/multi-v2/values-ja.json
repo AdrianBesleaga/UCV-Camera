@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\adrian.besleaga\\Desktop\\adrianweb\\Image Processing\\OpenCVwithUVC-master\\opencv\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ja\\values-ja.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\18da48fca299fed4c8f7cb5f9c81f194\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,159,249,300,421,558,630,714,799,883,968,1035,1116,1206,1279,1367,1461,1554,1648,1716,1799,1873,1948,2017,2099,2187,2275,2331,2379,2424,2471,2525,2574",
+                        "endColumns": "53,89,50,120,136,71,83,84,83,84,66,80,89,72,87,93,92,93,67,82,73,74,68,81,87,87,55,47,44,46,53,48,47",
+                        "endOffsets": "154,244,295,416,553,625,709,794,878,963,1030,1111,1201,1274,1362,1456,1549,1643,1711,1794,1868,1943,2012,2094,2182,2270,2326,2374,2419,2466,2520,2569,2617"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\9c9183446e3ec629cdc6a37853d80c8b\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "35",
+                        "startColumns": "4",
+                        "startOffsets": "2622",
+                        "endColumns": "100",
+                        "endOffsets": "2718"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\adrian.besleaga\\Desktop\\adrianweb\\Image Processing\\OpenCVwithUVC-master\\opencv\\build\\intermediates\\res\\merged\\release\\values-ja\\values-ja.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\18da48fca299fed4c8f7cb5f9c81f194\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,159,249,300,421,558,630,714,799,883,968,1035,1116,1206,1279,1367,1461,1554,1648,1716,1799,1873,1948,2017,2099,2187,2275,2331,2379,2424,2471,2525,2574",
+                        "endColumns": "53,89,50,120,136,71,83,84,83,84,66,80,89,72,87,93,92,93,67,82,73,74,68,81,87,87,55,47,44,46,53,48,47",
+                        "endOffsets": "154,244,295,416,553,625,709,794,878,963,1030,1111,1201,1274,1362,1456,1549,1643,1711,1794,1868,1943,2012,2094,2182,2270,2326,2374,2419,2466,2520,2569,2617"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\9c9183446e3ec629cdc6a37853d80c8b\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "35",
+                        "startColumns": "4",
+                        "startOffsets": "2622",
+                        "endColumns": "100",
+                        "endOffsets": "2718"
+                    }
+                }
+            ]
+        }
+    ]
+}
