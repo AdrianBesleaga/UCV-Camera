@@ -40,12 +40,12 @@
         "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\9c9183446e3ec629cdc6a37853d80c8b\\res\\layout\\notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\adrian.besleaga\\Desktop\\adrianweb\\Image Processing\\OpenCVwithUVC-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4_ic_frame_frame.png.flat",
-        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\18da48fca299fed4c8f7cb5f9c81f194\\res\\mipmap-xhdpi-v4\\ic_frame_frame.png"
-    },
-    {
         "merged": "C:\\Users\\adrian.besleaga\\Desktop\\adrianweb\\Image Processing\\OpenCVwithUVC-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi-v4_ic_color_circle.png.flat",
         "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\18da48fca299fed4c8f7cb5f9c81f194\\res\\mipmap-ldpi-v4\\ic_color_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\adrian.besleaga\\Desktop\\adrianweb\\Image Processing\\OpenCVwithUVC-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4_ic_frame_frame.png.flat",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\18da48fca299fed4c8f7cb5f9c81f194\\res\\mipmap-xhdpi-v4\\ic_frame_frame.png"
     },
     {
         "merged": "C:\\Users\\adrian.besleaga\\Desktop\\adrianweb\\Image Processing\\OpenCVwithUVC-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_ic_frame_circle.png.flat",
@@ -64,28 +64,28 @@
         "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\18da48fca299fed4c8f7cb5f9c81f194\\res\\layout\\list_item_bluetooth_device_info.xml"
     },
     {
-        "merged": "C:\\Users\\adrian.besleaga\\Desktop\\adrianweb\\Image Processing\\OpenCVwithUVC-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4_ic_frame_cross_circle2.png.flat",
-        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\18da48fca299fed4c8f7cb5f9c81f194\\res\\mipmap-xxxhdpi-v4\\ic_frame_cross_circle2.png"
+        "merged": "C:\\Users\\adrian.besleaga\\Desktop\\adrianweb\\Image Processing\\OpenCVwithUVC-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_btn_repeat_shutter_recording_pressed_holo.png.flat",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\18da48fca299fed4c8f7cb5f9c81f194\\res\\mipmap-hdpi-v4\\btn_repeat_shutter_recording_pressed_holo.png"
     },
     {
         "merged": "C:\\Users\\adrian.besleaga\\Desktop\\adrianweb\\Image Processing\\OpenCVwithUVC-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_ic_frame_cross_circle2.png.flat",
         "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\18da48fca299fed4c8f7cb5f9c81f194\\res\\mipmap-xxhdpi-v4\\ic_frame_cross_circle2.png"
     },
     {
-        "merged": "C:\\Users\\adrian.besleaga\\Desktop\\adrianweb\\Image Processing\\OpenCVwithUVC-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_btn_repeat_shutter_recording_pressed_holo.png.flat",
-        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\18da48fca299fed4c8f7cb5f9c81f194\\res\\mipmap-hdpi-v4\\btn_repeat_shutter_recording_pressed_holo.png"
+        "merged": "C:\\Users\\adrian.besleaga\\Desktop\\adrianweb\\Image Processing\\OpenCVwithUVC-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4_ic_frame_cross_circle2.png.flat",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\18da48fca299fed4c8f7cb5f9c81f194\\res\\mipmap-xxxhdpi-v4\\ic_frame_cross_circle2.png"
     },
     {
         "merged": "C:\\Users\\adrian.besleaga\\Desktop\\adrianweb\\Image Processing\\OpenCVwithUVC-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_new_shutter_video.xml.flat",
         "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\18da48fca299fed4c8f7cb5f9c81f194\\res\\drawable\\btn_new_shutter_video.xml"
     },
     {
-        "merged": "C:\\Users\\adrian.besleaga\\Desktop\\adrianweb\\Image Processing\\OpenCVwithUVC-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4_ic_frame_cross_circle2.png.flat",
-        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\18da48fca299fed4c8f7cb5f9c81f194\\res\\mipmap-xhdpi-v4\\ic_frame_cross_circle2.png"
-    },
-    {
         "merged": "C:\\Users\\adrian.besleaga\\Desktop\\adrianweb\\Image Processing\\OpenCVwithUVC-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border.xml.flat",
         "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\18da48fca299fed4c8f7cb5f9c81f194\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\adrian.besleaga\\Desktop\\adrianweb\\Image Processing\\OpenCVwithUVC-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4_ic_frame_cross_circle2.png.flat",
+        "source": "C:\\Users\\adrian.besleaga\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\18da48fca299fed4c8f7cb5f9c81f194\\res\\mipmap-xhdpi-v4\\ic_frame_cross_circle2.png"
     },
     {
         "merged": "C:\\Users\\adrian.besleaga\\Desktop\\adrianweb\\Image Processing\\OpenCVwithUVC-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_btn_video_shutter_recording_holo.png.flat",

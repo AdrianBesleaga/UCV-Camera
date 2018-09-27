@@ -4,8 +4,7 @@ ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwit
 INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:2:1-28:12
 INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:2:1-28:12
 INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:2:1-28:12
-MERGED from [:opencv] C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\opencv\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2e717f5974e2e8f9b726a3f7d1f64980\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\caa75043a23dc21506325b7684fcfde0\AndroidManifest.xml:2:1-11:12
 MERGED from [com.serenegiant:common:2.5.1] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\common-2.5.1.aar\18da48fca299fed4c8f7cb5f9c81f194\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\17b9278820dbb9161006a1ae36fb0e49\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\549e979b09f881adcd1da51577b91baf\AndroidManifest.xml:17:1-22:12
@@ -18,7 +17,7 @@ INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCV
 INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:2:1-28:12
 INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:2:1-28:12
 	package
-		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:3:5-44
+		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:3:5-33
 		INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -53,8 +52,8 @@ ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwit
 		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:10:16-56
 application
 ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:12:2-26:16
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2e717f5974e2e8f9b726a3f7d1f64980\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2e717f5974e2e8f9b726a3f7d1f64980\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\caa75043a23dc21506325b7684fcfde0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\caa75043a23dc21506325b7684fcfde0\AndroidManifest.xml:9:5-20
 	android:supportsRtl
 		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:17:3-29
 	android:label
@@ -67,10 +66,10 @@ MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ad
 		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:13:3-29
 	android:theme
 		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:18:3-34
-activity#com.serenegiant.usbcameratest.MainActivity2
+activity#xyz.adrianweb.main.MainActivity
 ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:19:3-25:14
 	android:name
-		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:19:13-42
+		ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:19:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml:20:4-24:20
 action#android.intent.action.MAIN
@@ -85,10 +84,8 @@ uses-sdk
 INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\app\src\main\AndroidManifest.xml
-MERGED from [:opencv] C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\opencv\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:5-9:41
-MERGED from [:opencv] C:\Users\adrian.besleaga\Desktop\adrianweb\Image Processing\OpenCVwithUVC-master\opencv\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2e717f5974e2e8f9b726a3f7d1f64980\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2e717f5974e2e8f9b726a3f7d1f64980\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\caa75043a23dc21506325b7684fcfde0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\caa75043a23dc21506325b7684fcfde0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.serenegiant:common:2.5.1] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\common-2.5.1.aar\18da48fca299fed4c8f7cb5f9c81f194\AndroidManifest.xml:7:5-9:41
 MERGED from [com.serenegiant:common:2.5.1] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\common-2.5.1.aar\18da48fca299fed4c8f7cb5f9c81f194\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\adrian.besleaga\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\17b9278820dbb9161006a1ae36fb0e49\AndroidManifest.xml:20:5-44

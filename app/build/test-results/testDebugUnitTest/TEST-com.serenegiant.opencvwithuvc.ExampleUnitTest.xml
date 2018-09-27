@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.serenegiant.opencvwithuvc.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-09-26T08:43:50" hostname="NIAS524367" time="0.001">
+<testsuite name="com.serenegiant.opencvwithuvc.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-09-27T07:28:49" hostname="NIAS524367" time="0.001">
   <properties/>
   <testcase name="addition_isCorrect" classname="com.serenegiant.opencvwithuvc.ExampleUnitTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
